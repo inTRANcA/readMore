@@ -128,4 +128,5 @@ Finished:
 . The Murderbot Diaries #5 Network Effect (2020) by Martha Wells
 . The Murderbot Diaries #6 Fugitive Telemetry (2021) by Martha Wells
 . Silo #1 Wool (2012) by Hugh Howey [Start: 26 Sept 2023, End: 5 Oct 2023]
-. Silo #2 Shift (2013) by Hugh Howey [Start: 12 Oct 2023, in progress][p657-p694, yesterday > p694-p717, yesterday > p717-p757, yesterday > p757-p808, yesterday > p808-p857, yesterday > p857-p883,]
+. Silo #2 Shift (2013) by Hugh Howey [Start: 12 Oct 2023, in progress][p657-p694, yesterday > p694-p717, yesterday > p717-p757, yesterday > p757-p808, yesterday > p808-p857, yesterday > p857-p883, yesterday > p883-p971 > done]
+. Silo #3 Dust (2013) by Hugh Howey [Start: 12 Jan 2024, in progress][today > p975-,
